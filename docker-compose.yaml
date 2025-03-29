@@ -1,5 +1,0 @@
-services:
-  api:
-    image: "fabjiro/system_clinica"
-    ports:
-      - "10000:8080"

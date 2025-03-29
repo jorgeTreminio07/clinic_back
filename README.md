@@ -12,12 +12,10 @@ dotnet ef database update --project ./Infrastructure/Infrastructure.csproj --sta
 
 dotnet publish -c Release
 
-# docker build
+# run Api
 
-docker build -t fabjiro/system_inventory .
+dotnet run --project Api
 
-# push to docker
+# Remenber
 
-docker push fabjiro/system_inventory
-
-# check image on docker hub
+add pg_dump from file archivoslocales/postgre/bin to path in variables de entorno to generate backups
