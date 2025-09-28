@@ -1,4 +1,4 @@
-# Clinical record registration and control system API - ASP.NET Core 9
+# Clinical record registration and control system API - ASP.NET Core 8
 
 API designed for a **Clinical record registration and control system** for general medical care, built using **Clean Architecture** principles.
 
@@ -15,7 +15,7 @@ API designed for a **Clinical record registration and control system** for gener
 
 | Technology            | Badge                                                                                                                                     |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| **ASP.NET Core 9**    | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)                       |
+| **ASP.NET Core 8**    | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)                       |
 | **PostgreSQL**        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)                         |
 | **Entity Framework**  | ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)    |
 | **MediatR**           | ![MediatR](https://img.shields.io/badge/MediatR-FF6C37?style=for-the-badge&logo=nuget&logoColor=white)                                    |
