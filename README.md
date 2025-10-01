@@ -38,6 +38,7 @@ API designed for a **Clinical record registration and control system** for gener
 - **CRUD for Backups** 
 - **Cache Management** 
 - **File Storage**
+- **Soft Delete**
 
 ### 🏥 Medical System Features
 
